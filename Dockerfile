@@ -13,7 +13,7 @@ COPY index.html /web/static/index.html
 
 WORKDIR /web
 
-EXPOSE 3000
+EXPOSE 3001
 
 ENTRYPOINT webapp
 
